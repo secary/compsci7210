@@ -1,4 +1,5 @@
 # COMPSCI 7210
+Foundations of Computer Science A
 
 ## SECTION A1
 Programming Fundamentals I  
