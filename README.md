@@ -1,4 +1,4 @@
-# COMPSCI 7210
+# COMPSCI 7210, Tri2, 2024
 Foundations of Computer Science A
 
 ## SECTION A1
