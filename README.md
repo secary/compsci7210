@@ -1,5 +1,5 @@
 # COMPSCI 7210, Tri2, 2024
-Foundations of Computer Science A
+[Foundations of Computer Science A](https://www.adelaide.edu.au/course-outlines/110022/1/tri-2/2024)
 
 ## SECTION A1
 Programming Fundamentals I  
